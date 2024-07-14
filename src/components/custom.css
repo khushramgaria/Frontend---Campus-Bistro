@@ -1,0 +1,19 @@
+.custom-font {
+    font-family: brush script mt, cursive;
+}
+
+.home-bg-img1 {
+    background: url("https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp") no-repeat;
+    background-size: cover;
+}
+
+.home-bg-transparency {
+    background: rgba(0, 0, 0, 0.7);
+    transition: all ease 0.1s;
+}
+
+.home-bg-transparency:hover{
+    background: rgba(0, 0, 0, 0.85);
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
